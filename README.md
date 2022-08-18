@@ -6,4 +6,4 @@ Nele é necessário adicionar a Função de Transferência (g), a Margem de Fase
 
 Todos os valores que precisam ser adicionados conforme especificação do projeto são informados nos comentários do código. Além disso, é feito o print dos principais resultados calculados.
 
-P.S: A função interp1d apresenta limitações, devido à isso podem haver exemplos de aplicação em que a mesma não é capaz de executar. Esta falha costuma ocorrer para aplicação que apresentam um alto valor para o ganho (k)
+P.S: A função interp1d apresenta limitações, devido à isso podem haver exemplos de aplicação em que a mesma não é capaz de executar. Esta falha costuma ocorrer para aplicação que apresentam um alto valor para o ganho (k).
